@@ -1,0 +1,90 @@
+/* Container */
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #87CEEB; /* sage green */
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+}
+
+/* Title */
+.app h1 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+/* Input + Button */
+input {
+  padding: 0.6rem;
+  margin-right: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+  background-color: white;
+  color: #4169E1; /* darker sage */
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+/* Weather Box */
+.weather-box {
+  margin-top: 2rem;
+  padding: 2rem;
+  border-radius: 12px;
+  background: white;
+  color: #4169E1;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.weather-box h2 {
+  margin-bottom: 0.5rem;
+}
+
+.weather-box p {
+  margin: 0.3rem 0;
+}
+
+
+
+
+
+
+
+/* .app {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2rem;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.weather-box {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 10px;
+  display: inline-block;
+  background: lightgreen;
+} */
