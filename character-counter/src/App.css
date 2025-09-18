@@ -1,0 +1,33 @@
+.App {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.counter {
+  background: #8a9a5b ;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.counter h1{
+  color: black;
+  margin: 10px;
+}
+
+.counter h3{
+  color: green;
+  margin: 10px;
+}
+
+.counter input{
+  width:auto;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 5px;
+}
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
