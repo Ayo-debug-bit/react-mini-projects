@@ -32,3 +32,9 @@ The various project folders and their respective files were created and we're pu
 ## Online Resources used
 W3schools
 Youtube tutorials
+
+## Screenshot of my favourite code
+   ![Favourite project screenshot](./images/favourite-screenshot.png)
+
+## Portfolio link
+   https://mini-projects-portfolio-rp6z.vercel.app/   
